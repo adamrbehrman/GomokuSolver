@@ -1,0 +1,27 @@
+N
+0
+P
+P
+P
+P
+N
+-
+N****
+*0***
+**P**
+NNPPN
+****N
+-
+
+
+
+
+
+
+N0BBBBN
+N0BBBBN
+NBBBB0N
+N0BBBBN
+(14.0, 0.0)
+
+(14.0, 0.0)
